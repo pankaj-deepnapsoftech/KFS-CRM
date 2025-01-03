@@ -43,7 +43,7 @@ const allowedOrigins = [
   "http://localhost:3000",
   "http://localhost:3001",
   "http://localhost:5173",
-  "https://crmkfs.deepmart.shop",
+  "https://crm.kfsfitness.com",
   "https://kfsecommerce.deepmart.shop",
 ];
 
